@@ -66,12 +66,12 @@ JWT_SECRET=your_jwt_secret_key
 ## 5. Run the App
 
 In two terminals:
-# Terminal 1: Start Backend
+## Terminal 1: Start Backend
 
 cd server
 npm run dev
 
-# Terminal 2: Start Frontend
+## Terminal 2: Start Frontend
 
 cd client
 npm run dev
